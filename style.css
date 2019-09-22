@@ -2,3 +2,10 @@
     width: 1024px;
     margin: auto;
 }
+ img{
+    width: 600px;
+    height: 600px;
+}
+.img{
+    text-align: center;
+}
