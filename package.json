@@ -30,7 +30,7 @@
         "babel-loader": "^8.0.5",
         "bem-tools-core": "bem-tools/bem-tools-core",
         "bem-tools-create": "bem-tools/bem-tools-create",
-        "browser-sync": "^2.23.6",
+        "browser-sync": "^2.27.10",
         "del": "^4.1.1",
         "gulp": "^4.0.0",
         "gulp-autoprefixer": "^6.1.0",
